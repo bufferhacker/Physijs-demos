@@ -1,0 +1,6 @@
+[submodule "Physijs"]
+	path = Physijs
+	url = git://github.com/chandlerprall/Physijs.git
+[submodule "ammo.js-demos"]
+	path = ammo.js-demos
+	url = git://github.com/schteppe/ammo.js-demos.git
